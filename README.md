@@ -1,4 +1,4 @@
-# Mobx Tutorial and Demo
+# Flutter Mobx Tutorial and Demo
 
 Increment and decrement value using Mobx
 
